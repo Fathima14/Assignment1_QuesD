@@ -7,7 +7,7 @@ public class PracticeMergeConflictis{
 	}
 	public void upcomingEvents(){
 	System.out.println("Upcoming Events Header");
-	System.out.println("Party at SFO California Pizza");
+	System.out.println("Party at Sunnyvale plaza today");
 
 	}
 
