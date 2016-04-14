@@ -2,7 +2,7 @@ public class PracticeMergeConflictis{
 
 	public void thoughoftheday(){
 
-		System.out.println("Welcome");
+		System.out.println("Do something wonderful others can imitate");
 
 	}
 
