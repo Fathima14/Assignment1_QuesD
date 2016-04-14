@@ -1,6 +1,6 @@
 public class PracticeMergeConflictis{
 
-	public void fnOne(){
+	public void thoughoftheday(){
 
 		System.out.println("Welcome");
 
@@ -12,7 +12,7 @@ public class PracticeMergeConflictis{
 
 		PracticeMergeConflictis mc = new PracticeMergeConflictis();
 
-		mc.fnOne();
+		mc.thoughtoftheday();
 
 	}
 
