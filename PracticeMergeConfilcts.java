@@ -5,6 +5,11 @@ public class PracticeMergeConflictis{
 		System.out.println("Welcome");
 
 	}
+	public void upcomingEvents(){
+
+	System.out.println("Party at SFO California Pizza");
+
+	}
 
 	public static void main (String[] args)
 
@@ -13,6 +18,7 @@ public class PracticeMergeConflictis{
 		PracticeMergeConflictis mc = new PracticeMergeConflictis();
 
 		mc.thoughtoftheday();
+		mc.upcomingEvents();
 
 	}
 
