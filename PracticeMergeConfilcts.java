@@ -13,7 +13,7 @@ public class PracticeMergeConflictis{
 
 	}
 	public void upcomingEvents(){
-		System.out.println("Upcoming Events");
+		System.out.println("Upcoming Events -Please join us");
 		for(String event : events)
 			System.out.println(event);
 
